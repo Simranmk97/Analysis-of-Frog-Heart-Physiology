@@ -48,7 +48,16 @@ Appendix
 Photograph of Frog Thorax:
 
 <img width="181" alt="image" src="https://user-images.githubusercontent.com/105514187/189795982-2b20e9d6-b722-4f23-975d-413875684800.png">
-Figure 1.  Labelling of organs in frog thoracic cavity and labels of the parts of the frog heart.![image](https://user-images.githubusercontent.com/105514187/189796031-1d42619c-73bb-466d-92d7-0945ff329922.png)
+Figure 1.  Labelling of organs in frog thoracic cavity and labels of the parts of the frog heart.
 
-<img width="181" alt="image" src="https://user-images.githubusercontent.com/105514187/189796207-e32ad6b2-b522-431a-8172-5a3c9b898576.png">
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/105514187/189796388-c0d3af88-ac4a-4a45-829b-6c894921314c.png">
+
+Figure 2.  Representation of baseline electrogram signal recorded using the bipolar electrode. The P wave is the atrial depolarization and contraction phase of the frog heart, QRS complex consisting of the Q, R and S wave, represents the ventricular depolarization and beginning of contraction phase, and T wave represents the ventricular repolarization phase.
+
+
+<img width="283" alt="image" src="https://user-images.githubusercontent.com/105514187/189796483-f6ce4f1b-3cb4-49ad-ba8b-c1ddc4b24466.png">
+
+Figure 3.  Calibration plot of the force transducer using different known weights. A linear fit was used to obtained the equation shown in the graph. This was used to convert the transducer values from Volts to Newtons.
+
+
 
