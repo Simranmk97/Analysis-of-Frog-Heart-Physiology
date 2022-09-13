@@ -59,5 +59,20 @@ Figure 2.  Representation of baseline electrogram signal recorded using the bipo
 
 Figure 3.  Calibration plot of the force transducer using different known weights. A linear fit was used to obtained the equation shown in the graph. This was used to convert the transducer values from Volts to Newtons.
 
+<img width="286" alt="image" src="https://user-images.githubusercontent.com/105514187/189796622-75a06775-1857-45b9-987b-a6c70100f857.png">
+
+Figure 4.  The figure shows an increase in force magnitudes with increased stretch levels. 
+
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105514187/189796667-119a3ec8-fcd1-480f-8189-eff963e2e644.png">
+
+Figure 5.  Quantified data of baseline, 1mm, 8 mm, 11 mm stretch from left to right, representing contraction tension as a function of pretention. 
+
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/105514187/189797008-cd6d502e-0cb2-4a8e-8986-8f8611f19fb0.png">
+
+Figure 6.  Comparison of baseline ECG and force data with frog heart’s response to Acetylcholine 1 mM shown in ECG and force data.
+
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/105514187/189797086-c6098383-03eb-4422-b817-2d0ed49b3a6c.png">
+
+Figure 14.  Representation of % change in heart rate and force contraction for each drug.
 
 
