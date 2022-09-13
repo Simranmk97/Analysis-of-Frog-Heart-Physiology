@@ -1,2 +1,2 @@
-## Analysis-of-Frog-Heart-Physiology
-# Simran Karim
+# Analysis-of-Frog-Heart-Physiology
+## Simran Karim
